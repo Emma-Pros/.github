@@ -1,11 +1,10 @@
-# Emma Pros Engineering
+# Engineering Standards
 
-Internal tooling for Emma Transit & Emma Logistics operations.
+Shared conventions for our repositories. Keep new work on the stack below so
+projects look alike and code, patterns, and people move between them with
+little friction.
 
 ## Tech Stack
-
-Keep new projects on the shared stack below. Similar projects should look
-similar, so code, patterns, and people move between repos with little friction.
 
 **Shared foundation (every repo):**
 
